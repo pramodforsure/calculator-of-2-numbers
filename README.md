@@ -27,7 +27,7 @@ Make sure Python 3 is installed on your computer.
 
 Clone this repository:
 
-git clone https://github.com/your-username/simple-python-calculator.git
+git clone https://github.com/pramodforsure/calculator-of-2-numbers.git
 
 
 Move into the project folder:
