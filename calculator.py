@@ -1,5 +1,5 @@
 a = int(input("enter your first number:"))
-b = int(input("enter your second nummber:"))
+b = int(input("enter your second number:"))
 c = input("please chose your operations:")
 if c == "+":
     print("your sum is :", a+b)
